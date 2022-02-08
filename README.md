@@ -34,11 +34,6 @@ HTML
 - semantic tags
 - emmet abbreviations
 
-Figma
-- [Sprint 4 Figma design](https://www.figma.com/file/2cn9N9jSkmxD84oJik7xL7/JavaScript.-Sprint-4?node-id=0%3A1)
-- [Sprint 5 Figma design](https://www.figma.com/file/bjyvbKKJN2naO0ucURl2Z0/JavaScript.-Sprint-5?node-id=0%3A1)
-- [Sprint 9 Figma design](https://www.figma.com/file/hhhIavVTeuilfPPZ6sbifl/JavaScript.-Sprint-9?node-id=0%3A1)
-- implement 320px and 1280px designs
 
 BEM
 - CSS classes organized according to Block Element Modifier system
